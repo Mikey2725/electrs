@@ -1,4 +1,4 @@
-copilot/sudo-systemctl-restart-bitcoind# Mempool - Electrs backend API
+Claude Haiku 4.5copilot/sudo-systemctl-restart-bitcoind# Mempool - Electrs backend API
 
 A block chain index engine and HTTP API written in Rust based on [romanz/electrs](https://github.com/romanz/electrs) and [Blockstream/electrs](https://github.com/Blockstream/electrs).
 
